@@ -1,6 +1,7 @@
 ## Olá!! 🖖 Sou Diego Menezes, Analista de Sistemas 
 
-- 💻 Atualmente trabalhando com a ferramenta Maker da Softwell
+- 💻 Atualmente trabalhando no desenvolvimento de soluções utilizando Maker e Sql Server como principais tecnologias.
+- 👨🏽‍💻 Participação no levantamento de requisitos e modelagem de novas soluções. 
 - ☕ Retornando os estudos em java
 
 <div align="center">
